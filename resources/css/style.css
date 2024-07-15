@@ -1,0 +1,47 @@
+background {
+    color: black;
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    max-width: 100%;
+    /* Asegura que la imagen no sea más ancha que su contenedor */
+    height: auto;
+    /* Mantiene la proporción de la imagen */
+}
+
+title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+title_2 {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+title_3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+title_4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color:grey
+}
+
+title_5 {
+    text-align: right;
+    color: grey;
+}
