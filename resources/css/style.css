@@ -16,7 +16,7 @@ img {
     /* Mantiene la proporción de la imagen */
 }
 
-title {
+.title {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
@@ -24,25 +24,25 @@ title {
     text-align: center;
 }
 
-title_2 {
+.title_2 {
     font-size: 16px;
     color: aquamarine;
 }
 
-title_3 {
+.title_3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300;
     font-size: 42px;
     color: white;
 }
 
-title_4 {
+.title_4 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
-    color:white
+    color:gray;
 }
 
-title_5 {
+.title_5 {
     text-align: right;
-    color: white;
+    color: gray;
 }
